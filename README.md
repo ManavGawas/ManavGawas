@@ -20,7 +20,8 @@ I build for scale, latency, and absolute reliability.
 * **High-End UI/UX:** Prototyping elite, dark-mode terminal aesthetics for developer-focused tooling.
 
 ### 📈 Engineering Philosophy
-*"Design for failure, architect for scale."* I believe in clean, deterministic codebases. Whether it is matching algorithms using strict Euclidean geometry or managing state in concurrent applications with RWMutexes, the goal is always maximum efficiency and zero data races.
+*"Design for failure, architect for scale."* 
+I believe in clean, deterministic codebases. Whether it is matching algorithms using strict Euclidean geometry or managing state in concurrent applications with RWMutexes, the goal is always maximum efficiency and zero data races.
 ---
 ### 📄 Executive Resume
 **[↳ View my dynamically compiled LaTeX Resume](https://github.com/ManavGawas/resume/releases/latest/download/resume.pdf)** *Continuously deployed via GitHub Actions.*
