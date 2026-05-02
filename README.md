@@ -33,8 +33,6 @@ I build for scale, latency, and absolute reliability.
 <br>
 
 ---
-**Connect & Collaborate**
-[LinkedIn](https://linkedin.com/in/manavgawas/) • [Email](mailto:gawasmanav469@gmail.com) • [Website](https://syncora.systems)
 ---
 **Connect & Collaborate**
 [LinkedIn](https://linkedin.com/in/manavgawas) • [Email](manav@syncora.systems) • [Website](https://syncora.systems)
