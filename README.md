@@ -21,7 +21,20 @@ I build for scale, latency, and absolute reliability.
 
 ### 📈 Engineering Philosophy
 *"Design for failure, architect for scale."* I believe in clean, deterministic codebases. Whether it is matching algorithms using strict Euclidean geometry or managing state in concurrent applications with RWMutexes, the goal is always maximum efficiency and zero data races.
+---
+### 📄 Executive Resume
+<div align="center">
+  <a href="https://github.com/ManavGawas/resume/releases/latest/download/resume.pdf">
+    <img src="resume-preview.png" alt="Manav Gawas Resume" width="700">
+  </a>
+  <br>
+  <sub><b>👆 Click the preview to view the full, interactive PDF</b></sub>
+</div>
+<br>
 
+---
+**Connect & Collaborate**
+[LinkedIn](https://linkedin.com/in/manavgawas/) • [Email](mailto:gawasmanav469@gmail.com) • [Website](https://syncora.systems)
 ---
 **Connect & Collaborate**
 [LinkedIn](https://linkedin.com/in/manavgawas) • [Email](manav@syncora.systems) • [Website](https://syncora.systems)
