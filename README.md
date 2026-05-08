@@ -30,4 +30,4 @@ I believe in clean, deterministic codebases. Whether it is matching algorithms u
 
 ---
 **Connect & Collaborate**
-[LinkedIn](https://linkedin.com/in/manavgawas/) • [Email](mailto:gawasmanav469@gmail.com) • [Website](https://syncora.systems)
+[LinkedIn](https://linkedin.com/in/manavgawas/) • [Email](mailto:gawasmanav469@gmail.com) • [Personal Website](https://manavgawas.tech) • [Business Website](https://syncora.systems)
