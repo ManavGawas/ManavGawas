@@ -1,5 +1,5 @@
 # Manav Gawas
-**Founder at Syncora Systems | AI & Cloud Solutions Architect**
+**Founder at Syncora Systems | AI & Cloud Solutions Architect | AI Systems Engineer**
 
 I engineer high-throughput backend systems and distributed architectures. My focus is on building robust, scalable infrastructure that bridges the gap between advanced artificial intelligence and production-grade business operations. 
 
